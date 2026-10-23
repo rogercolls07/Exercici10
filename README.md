@@ -12,7 +12,7 @@
     llegir (b)
 
   resultat[ 5 ]
-  Per i < longitud a fer
+  Per i < longitud resultat fer
     resultat[i] = a[i] + b[i]
 
    Per i < longitud a fer
