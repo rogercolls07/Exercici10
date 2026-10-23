@@ -1,6 +1,6 @@
-### Pseudocodi
+# Pseudocodi
 
-# Inici
+### Inici
   a[ 5 ]
   Per i < longitud a fer
     Escriu "Escriu un nombre enter: "
@@ -21,4 +21,7 @@
   Per i < longitud a fer
     Escriu "b[i]"
 
-# Fi
+   Per i < longitud a fer
+    Escriu "resultat[i]"
+
+### Fi
